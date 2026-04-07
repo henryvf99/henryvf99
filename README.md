@@ -3,7 +3,7 @@
 - 🧑‍💻 I'm a Systems Engineer, specialized in software.
 - 👯 My main technologies are Nodejs and Java
 - 💬 Ask me about Software Architecture, Java, Node.js, Docker, Angular and AWS
-- ![](https://img.shields.io/badge/--000000?style=flat&logo=Twitter)Social media: [@henryvf99](https://www.facebook.com/HENRYVF99/)
+- ![](https://img.shields.io/badge/--000000?style=flat&logo=Twitter) Social media: [@henryvf99](https://www.facebook.com/HENRYVF99/)
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/henry-vf) | [henryvelezmorofranco@gmail.com](mailto:henryvelezmorofranco@gmail.com)
 
 ##### Languages I primary use
